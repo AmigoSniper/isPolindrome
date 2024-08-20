@@ -1,6 +1,6 @@
-# suitmedia_test
+# isPalindrome
 
-A new Flutter project for Test from Suitmedia Developer.
+A new Flutter project for Portopholio.
 
 ## Getting Started
 
